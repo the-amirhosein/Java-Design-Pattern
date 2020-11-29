@@ -1,4 +1,4 @@
-package designPattern.Strategy;
+package Strategy;
 
 public class Calculate {
 

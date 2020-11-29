@@ -1,4 +1,4 @@
-package designPattern.Factory;
+package Factory;
 
 public class Goli implements SayHello {
 

@@ -1,4 +1,4 @@
-package designPattern.Supplier;
+package Supplier;
 
 public class Eli implements SayHello {
     @Override

@@ -1,4 +1,4 @@
-package designPattern.Supplier;
+package Supplier;
 
 import java.util.HashMap;
 import java.util.Map;

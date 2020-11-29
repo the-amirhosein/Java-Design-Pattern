@@ -1,4 +1,4 @@
-package designPattern.Factory;
+package Factory;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;

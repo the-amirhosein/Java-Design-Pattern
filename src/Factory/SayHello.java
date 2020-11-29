@@ -1,4 +1,4 @@
-package designPattern.Factory;
+package Factory;
 
 public interface SayHello {
     String SayHello();

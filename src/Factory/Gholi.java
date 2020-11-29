@@ -1,8 +1,8 @@
-package designPattern.Supplier;
+package Factory;
 
 public class Gholi implements SayHello {
     @Override
-    public String sayHello() {
+    public String SayHello() {
         return "Hello Gholi";
     }
 }

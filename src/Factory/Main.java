@@ -1,4 +1,4 @@
-package designPattern.Factory;
+package Factory;
 
 import java.util.Objects;
 
